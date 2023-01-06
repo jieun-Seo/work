@@ -5,6 +5,7 @@ public class MainClass {
 	public static void main(String[] args) {
 		
 		System.out.println("헬로우 자바");
+		System.out.println("헬로우 자바 수정수정");
 		
 		// 한줄 주석문 -> 컴파일이 되지 않는다
 		
